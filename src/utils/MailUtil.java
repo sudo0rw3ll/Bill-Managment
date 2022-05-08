@@ -21,9 +21,9 @@ import model.Prilog;
 
 public class MailUtil {
 
-	private static final String authServer = "mail.divby.de";
-	private static final String user = "advert@divby.de";
-	private static final String password = "Andrej2005+";
+	private static final String authServer = ""; //set mail server
+	private static final String user = ""; //set username
+	private static final String password = ""; //set password
 
 	public static List<Prilog> prilozi = new ArrayList<Prilog>();
 	
